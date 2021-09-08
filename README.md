@@ -1,9 +1,9 @@
 ### Merhabalar, Ben Bilge  👋
-<img align="left" alt="c ++" width="200px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/1.png" />
-<img align="left" alt="c-sharp" width="200px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/2.png" />
-<img align="left" alt="react-native" width="200px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
-<img align="left" alt="html5" width="100px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/4.png" />
-<img align="left" alt="css3" width="100px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" />
+<img align="left" alt="c ++" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/1.png" />
+<img align="left" alt="c-sharp" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/2.png" />
+<img align="left" alt="react-native" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
+<img align="left" alt="html5" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/4.png" />
+<img align="left" alt="css3" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" />
 <!--
 **bilgekara/bilgekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
