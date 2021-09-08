@@ -3,9 +3,9 @@
   <summary>Sign In
 </summary>
 <img align="left" alt="c-sharp" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/2.png" />
-  <summary>Login:<img align="left" alt="react-native" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
+  <summary>Login:
 </summary>
-
+<img align="left" alt="react-native" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
 
 <br />
 <br />
