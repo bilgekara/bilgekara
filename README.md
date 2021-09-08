@@ -11,10 +11,10 @@
 <br />
 <summary>Ana Sayfa:
 </summary>
-<img align="left" alt="html5" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/4.png" />
+<img align="right" alt="html5" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/4.png" />
 <summary>Kategoriler:
 </summary>
-<img align="left" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" />
+<img align="right" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" />
 <!--
 **bilgekara/bilgekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
