@@ -1,3 +1,10 @@
+.kutu{width: 220px;
+      height:200px;
+      border: 5px solid #000;
+      background-color:#ff6600;
+	  }
+	  
+	  <div class="kutu"> </div>
 ### Merhabalar, Ben Bilge  👋
 <summary>Login:</summary><img align="left" alt="c ++" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/1.png" />
   <summary>Sign In
