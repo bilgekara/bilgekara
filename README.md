@@ -1,19 +1,18 @@
-.kutu{width: 220px;
-      height:200px;
-      border: 5px solid #000;
-      background-color:#ff6600;
-	  }
-	  
-	  <div class="kutu"> </div>
 ### Merhabalar, Ben Bilge  👋
+<details>
 <summary>Login:</summary><img align="left" alt="c ++" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/1.png" />
-  <summary>Sign In
-</summary>
+</details>
+
+<details>
+  <summary>Sign In</summary>
+
 <img align="left" alt="c-sharp" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/2.png" />
+</details>
+<details>
   <summary>Login:
 </summary>
 <img align="left" alt="react-native" width="250px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
-
+</details>
 <br />
 <br />
 <summary>Ana Sayfa:
