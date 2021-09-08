@@ -1,7 +1,11 @@
 ### Merhabalar, Ben Bilge  👋
-<img align="left" alt="c ++" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/1.png" />
-<img align="left" alt="c-sharp" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/2.png" />
-<img align="left" alt="react-native" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
+<img align="left" alt="c ++" width="240px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/1.png" />
+<img align="left" alt="c-sharp" width="240px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/2.png" />
+<img align="left" alt="react-native" width="240px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/3.png" />
+
+<br />
+
+<br />
 <img align="left" alt="html5" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/4.png" />
 <img align="left" alt="css3" width="220px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" />
 <!--
