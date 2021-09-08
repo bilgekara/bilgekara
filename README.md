@@ -19,7 +19,7 @@
 <summary>Search:</summary><img align="right" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/search.png" />
 </details>
 <details>
-<summary>Kategoriler:</summary><img align="right" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" />
+<summary>Kategoriler:</summary><img align="right" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/5.png" /><img align="right" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/kategori.png" />
 </details>
 <details>
 <summary>Kategori:</summary><img align="right" alt="css3" width="290px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/kategori.png" />
