@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bilgekara&repo=vtysProje)
 -->
+<a href="https://www.instagram.com/bilgenur.kara/?hl=tr" target="_blank"><img align="left" alt="Bilge K | Instagram" width="22px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/insta.svg" />
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ### Benimle iletişim kur:
 
 
 <a href="https://github.com/bilgekara" target="_blank"><img align="left" alt="bilgeli" width="22px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/www.svg" /></a>
 <a href="https://www.linkedin.com/in/bilgenur-kara/" target="_blank"><img align="left" alt="Bilge K | LinkedIn" width="22px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/linkedin.svg" />
-<a href="https://www.instagram.com/bilgenur.kara/?hl=tr" target="_blank"><img align="left" alt="Bilge K | Instagram" width="22px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/insta.svg" />
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
