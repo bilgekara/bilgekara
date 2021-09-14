@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bilgekara&repo=vtysProje)
+### Spotify Playing 🎧
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/nexbt9bqrwha8ewp0tplu3mp6)
+<br/>
 -->
 <a href="https://www.instagram.com/bilgenur.kara/?hl=tr" target="_blank"><img align="left" alt="Bilge K | Instagram" width="22px" src="https://github.com/bilgekara/bilgekara/blob/main/pic/insta.svg" />
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -56,9 +59,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Spotify Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/nexbt9bqrwha8ewp0tplu3mp6)
-<br/>
+
 ---
 ---
 
