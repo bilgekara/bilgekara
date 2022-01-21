@@ -72,7 +72,7 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=karabilgenur&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=karabilgenur)](https://medium.com/@omidnikrah)
 
 <!--
 ------------------------------------------------------------------------------------------------------------------------------------------
