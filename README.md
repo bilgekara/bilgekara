@@ -66,7 +66,13 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats" width="350" height="300"/>
 </a>
 </p>
-<br><br><br><br><br>
+<br><br>
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=karabilgenur&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
 
 <!--
 ------------------------------------------------------------------------------------------------------------------------------------------
