@@ -54,9 +54,9 @@
 </p>
 
 <br>
-<!--<summary>:zap: GitHub İstatistikleri</summary>-->
+<!--Github Activity ✔:-->
 
-### Github Activity ✔:
+### <summary>:zap: GitHub İstatistikleri</summary>
 
 <a href="https://github.com/bilgekara">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact&theme=tokyonight" width="310" height="300" />
@@ -66,8 +66,6 @@
 
 <br/>
 <br/>
-
-![Bilgenin github stats](https://github-readme-stats.vercel.app/api?username=bilgekara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
 
 
 <br>
