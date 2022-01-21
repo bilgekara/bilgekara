@@ -59,7 +59,7 @@
 ### Github Activity ✔:
 
 <a href="https://github.com/bilgekara">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&theme=tokyonight" width="60" height="40" />
   </a> <a href="https://github.com/bilgekara">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats"/>
 </a>
