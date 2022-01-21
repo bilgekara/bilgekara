@@ -61,7 +61,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact&theme=tokyonight"
   width="340" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27"
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27"
  width="410" /></p>
 <br><br><br><br><br>
 
