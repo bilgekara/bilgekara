@@ -4,13 +4,14 @@
 <!--<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
 <h3 align="center">Student at MITS, Gwalior🌟.</h3>-->
 
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework;)](https://git.io/typing-svg)</h1>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework;)](https://git.io/typing-svg)
+</div>
 
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=bilgekara&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
