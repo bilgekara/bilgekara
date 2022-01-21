@@ -65,6 +65,7 @@
   </a> <a href="https://github.com/bilgekara">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats" width="350" height="300"/>
 </a>
+<br><br><br><br><br>
 <hr>
 
 <!--
