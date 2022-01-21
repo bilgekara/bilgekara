@@ -68,9 +68,9 @@
 </p>
 <br><br>
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur@/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=karabilgenur)](https://medium.com/@omidnikrah)
 
