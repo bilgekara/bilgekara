@@ -68,7 +68,7 @@
  width="375" height="300"/>
 </a>
 </p>
-<br><br>
+<br><br><br>
 <p align="center">
  <img src="https://media.giphy.com/media/9udYDMLdVzBAFuWkmF/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Medium Posts</b></i>
 </p>
