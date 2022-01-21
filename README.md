@@ -54,10 +54,20 @@
 </p>
 
 <br>
+<!--<summary>:zap: GitHub İstatistikleri</summary>-->
 
-<h3>Statistical Data :-</h3>
+### Github Activity ✔:
 
-<summary>:zap: GitHub İstatistikleri</summary>
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
 
 ![Bilgenin github stats](https://github-readme-stats.vercel.app/api?username=bilgekara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact)
