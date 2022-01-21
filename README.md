@@ -6,10 +6,10 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=bilgekara&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
   -->
-<a align="center">
-<img href="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework" />
-</a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework;)](https://git.io/typing-svg)
 
 
@@ -17,14 +17,12 @@
 
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **karabilgenur@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
 
 <br>
 
