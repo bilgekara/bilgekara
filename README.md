@@ -62,10 +62,10 @@
 <p align="center">
 <a href="https://github.com/bilgekara">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact&theme=tokyonight" 
-  width="350" height="300" />
+  width="340" height="300" />
   </a> <a href="https://github.com/bilgekara">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats" 
- width="350" height="300"/>
+ width="330" height="300"/>
 </a>
 </p>
 <br><br>
