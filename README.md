@@ -7,7 +7,9 @@
     alt="adam-pw" /> 
   </p>
   -->
-
+<a align="center">
+<img href="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework" />
+</a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework;)](https://git.io/typing-svg)
 
 
