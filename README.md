@@ -60,7 +60,7 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact&theme=tokyonight"  /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" width="380" /></p>
 <br><br><br><br><br>
 
 <a href="https://github.com/bilgekara">
