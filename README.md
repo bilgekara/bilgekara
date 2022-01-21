@@ -65,11 +65,14 @@
  width="410" /></p>
 <br><br><br><br><br>
 
-<!--<a href="https://github.com/bilgekara">
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<a href="https://github.com/bilgekara">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact&theme=tokyonight" width="310" height="300" />
   </a> <a href="https://github.com/bilgekara">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats" width="350" height="300"/>
-</a>-->
+</a>
 
 <br/>
 <br/>
