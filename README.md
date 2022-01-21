@@ -1,21 +1,19 @@
-## Merhabalar, Ben Bilge  👋
+<!--## Merhabalar, Ben Bilge  👋
 
 
-<!--<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>-->
-
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework;)](https://git.io/typing-svg)
-</div>
-
-
-<br>
-
+<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
+<h3 align="center">Student at MITS, Gwalior🌟.</h3>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=bilgekara&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
+  -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Bilge!;I'm+a+Back-End+Developer...;I'm+working+on+.Net+Framework;)](https://git.io/typing-svg)
+
 
 <br>
+
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -102,17 +100,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
     alt="adam-pw" /></p>
 
-<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
 
 <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw" alt="adam-pw" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
