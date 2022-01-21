@@ -63,12 +63,12 @@
 <a href="https://github.com/bilgekara">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilgekara&layout=compact&theme=tokyonight" width="310" height="300" />
   </a> <a href="https://github.com/bilgekara">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats" width="350" height="300"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=bilgekara&show_icons=true&theme=tokyonight&line_height=27" alt="Bilge's github stats" width="350" height="300"/>
 </a>
 </p>
 <br><br>
 <p align="center">
- <img src="https://media.giphy.com/media/e0Ge0yluZaeSkl6TLq/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Medium Posts</b></i>
+ <img src="https://media.giphy.com/media/9udYDMLdVzBAFuWkmF/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Medium Posts</b></i>
 </p>
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@karabilgenur/0" alt="Recent Article 0"> 
 
